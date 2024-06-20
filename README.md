@@ -6,14 +6,14 @@ Yep, that's the homepage! It's the default front that displays when you first op
 
 ----------------------------------------------------------------------------------------
 
-And this page is where you can edit your sweet name and home city!
+And this page is where you can edit your name and home city!
 
 ![Profile Edit Section](https://github.com/Anika-2048/Flutter-Weather-App/assets/128902230/dba70045-f843-4bb6-924d-97073faeb5f0)
 
 ----------------------------------------------------------------------------------------
 
 Future updates:
-- There is a favourites page but it's not currently coded. The feature to add your favourite cities will be added!
+- As you may see, there is a favourites icon but it's not currently coded. The feature to add your favourite cities will be added!
 - Improved UI upcoming
 - Autocorrect and autocomplete for the cities, so you don't have to worry about the spellings!
 
