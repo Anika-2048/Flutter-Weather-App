@@ -1,7 +1,7 @@
 # Basic Weather Application
 
 ## Introduction
-A basic flutter based Weather Application which displays real time weather data fetched from [weatherapi.com](weatherapi.com) .
+A basic flutter based Weather Application which displays real time weather data fetched from (weatherapi.com) .
 
 ## Functionality and UI
 The homepage (left) is the default front that displays when you first open the app. It shows the weather of the home city you set. You can edit your name and home city by clicking on the profile icon in the bottom navigation bar.
