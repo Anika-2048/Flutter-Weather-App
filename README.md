@@ -1,14 +1,14 @@
 # Basic Weather Application
 
-Yep, that's the homepage! It's the default front that displays when you first open the app. It shows the weather of the home city you set.
+This is the homepage! It's the default front that displays when you first open the app. It shows the weather of the home city you set.
 
-![Home Page](https://github.com/Anika-2048/Flutter-Weather-App/assets/128902230/081a3a05-9804-4ad4-b7ae-93e023b49afc)
+<img src="https://github.com/Anika-2048/Flutter-Weather-App/assets/128902230/081a3a05-9804-4ad4-b7ae-93e023b49afc" height="400">
 
 ----------------------------------------------------------------------------------------
 
 And this page is where you can edit your name and home city!
 
-![Profile Edit Section](https://github.com/Anika-2048/Flutter-Weather-App/assets/128902230/dba70045-f843-4bb6-924d-97073faeb5f0)
+<img src="https://github.com/Anika-2048/Flutter-Weather-App/assets/128902230/dba70045-f843-4bb6-924d-97073faeb5f0" height="400">
 
 ----------------------------------------------------------------------------------------
 
